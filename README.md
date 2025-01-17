@@ -6,7 +6,7 @@
 
 
 
-- 💬 Ask me about **APIs, Golang, Mongo , Git, AWS etc.**
+- 💬 Ask me about **APIs,Node , Golang, Mongo , Git, AWS etc.**
 
 - 📫 How to reach me **ajitsoni000005@gmail.com**
 
