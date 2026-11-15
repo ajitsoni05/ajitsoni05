@@ -1,26 +1,37 @@
-[![MasterHead](https://raw.githubusercontent.com/ahmadhassan7/ahmadhassan7/master/resources/banner.png)](https://ajitsoni05.github.io/portfolio/)
-<h1 align="center">Hi 👋, I'm Ajit Soni</h1>
-<h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/f7uG1RSXEMX83UfpuDk1YuPil3E7d3hm59JwB9B4SLA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS50ZW5vci5jb20v/TFNEZUJlMkpBZm9B/QUFBQy9jYXQtY29k/aW5nLmdpZg.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ajitsoni05&label=Profile%20views&color=0e75b6&style=flat" alt="ajitsoni05" /> </p>
+<a href="https://ajitsoni05.github.io/portfolio/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+    <img alt="Ajit Soni. Senior Software Engineer at Distill.io, ex-Amagi. I build products end to end." src="assets/banner-light.png">
+  </picture>
+</a>
 
+Product engineer in Bengaluru with 4.5 years of shipping across backend and frontend. Senior Software Engineer at [Distill.io](https://distill.io), previously [Amagi](https://www.amagi.com).
 
+At work I build archival pipelines and search engines. On my own I ship small, quiet tools to real users. Strongest in **Go** and **Node.js**, and I own the UI in **Svelte** and **TypeScript** too.
 
-- 💬 Ask me about **APIs,Node , Golang, Mongo , Git, AWS etc.**
+**Now:** search and web-page archival at Distill.io · shipping FocalReader · building Labyrinth for iPhone and iPad · rebuilding Spark in Scala to learn how it works.
 
-- 📫 How to reach me **ajitsoni000005@gmail.com**
+## Shipped
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ajitsoni05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajitsoni05" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajit-soni-6a55a3158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit-soni-6a55a3158" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ajitsoni007" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ajitsoni007" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/ajitsoni000005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ajitsoni000005" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ajitsoni000005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ajitsoni000005" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/ajitsoni000005/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ajitsoni000005/profile" height="30" width="40" /></a>
-</p>
+| Product | What it is |
+| --- | --- |
+| **[FocalReader](https://focalreader.com)**<br>[![Active readers](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Ffocalreader-pricing.ajitsoni000005.workers.dev%2Fstats&query=%24.total&label=active%20readers&color=0b7a5e&cacheSeconds=3600)](https://focalreader.com) | A reading spotlight for people with ADHD and dyslexia, on [Chrome](https://chromewebstore.google.com/detail/focalreader-%E2%80%93-adhd-focus/ccmkhgbcbcjmhmpeomaljbnlifdhgbjg) and [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/focalreader-adhd-focus-reader/). It dims the page around the paragraph you're on. Smart Window steps through a page from the keyboard, and Explain (AI) rewrites a dense paragraph in plain language. |
+| **[FocalTabs](https://chromewebstore.google.com/detail/focaltabs/ogcpbfooclilidipalggkblcggicndik)** | Chrome extension for time-aware tab management. Tabs you stop using cool into a group, snooze themselves and land in a searchable archive. |
+| **[Labyrinth: Steel & Wood](https://ajitsoni05.github.io/labyrinth/)** | The wooden tilt-maze toy for iPhone and iPad. Rolling physics at 1,200 Hz, 46 levels and a Daily Maze. Coming soon to the App Store. |
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+## Open source
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajitsoni05&show_icons=true&locale=en&layout=compact" alt="ajitsoni05" /></p>
+| Project | What it is |
+| --- | --- |
+| [**mini-spark**](https://github.com/ajitsoni05/mini-spark) · Scala 3 | A Spark-style data engine: lazy RDDs, a DAG scheduler, shuffles with map-side combine, and lineage-based fault tolerance tested under injected failures. |
+| [**mhtml-go**](https://github.com/ajitsoni05/mhtml-go) · Go | A faithful, lossless MHTML parser. Standard library only, lazy part decoding, golden and fuzz tests. |
+| [**go-redis**](https://github.com/ajitsoni05/go-redis) · Go | A Redis-like in-memory server speaking RESP: SET, GET, DEL, ZADD, NX/XX writes, TTL expiry and concurrent clients. |
+| [**TravelPlan**](https://github.com/ajitsoni05/TravelPlan) · JavaScript | Route planner across air and rail networks using Dijkstra's algorithm, with a Vis.js graph. [Live demo](https://ajitsoni05.github.io/TravelPlan/). |
+
+## Toolbox
+
+Go · TypeScript · JavaScript · Python · Ruby · C++ · Node.js · Svelte · browser extensions · PostgreSQL · SQLite · MySQL · MongoDB · Docker · Kubernetes · AWS · GCP
+
+## Elsewhere
+
+[Portfolio](https://ajitsoni05.github.io/portfolio/) · [LinkedIn](https://www.linkedin.com/in/ajitsoni05/) · [LeetCode](https://leetcode.com/u/ajitsoni/) (800+ solved) · ajitsoni000005@gmail.com
